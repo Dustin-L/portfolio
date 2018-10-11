@@ -6,4 +6,11 @@ First things first let me Introduce myself, my name is Dustin Langman. I have li
 Take it easy, sincerely
 Dustin Langman
 
-![](1x1.png)
+![](images/1x1.png)
+
+- **[email](https://dustinlangman@gmail.com)
+- [Instagram] (https://instragram.com/dustin.ca)
+
+---
+
+© Dustin Langman
