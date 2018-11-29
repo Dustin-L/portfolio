@@ -8,8 +8,8 @@ Dustin Langman
 
 ![](images/1x1.png)
 
-- **[email](https://dustinlangman@gmail.com)
-- [Instagram] (https://instragram.com/dustin.ca)
+- **[Email](https://dustinlangman@gmail.com)
+- **[Instagram] (https://instragram.com/dustin.ca)
 
 ---
 
