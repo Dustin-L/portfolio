@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en-ca">
+<head>
+  <meta charset="utf-8">
+  <title>Pattern</title>
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <link href="../../common/modules.css" rel="stylesheet">
+  <link href="../../common/grid.css" rel="stylesheet">
+  <link href="../../common/type.css" rel="stylesheet">
+  <link href="../../common/theme.css" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Libre+Baskerville:400,400i,700|Quicksand:400,700" rel="stylesheet">
+  <link href="forms.css" rel="stylesheet">
+  <link href="../buttons/buttons.css" rel="stylesheet">
+
+
+</head>
+  <body>
+
+  <div class="textbox textbox-username">
+
+        <form method="post" action="/contact#contact_form" id="contact_form" accept-charset="UTF-8" class=""><input type="hidden" name="form_type" value="contact"><input type="hidden" name="utf8" value="✓">
+
+        <h3 class="bold">WRITE US A MESSAGE</h3>
+
+        <div class="">
+
+          <div class="">
+
+            <label for="ContactFormName" class=""></label>
+            <input type="text" id="ContactFormName" class="input-full" name="contact[name]" placeholder="Name" autocapitalize="words" value="">
+          </div>
+
+          <div class="">
+            <label for="ContactFormEmail" class=""></label>
+            <input type="email" id="ContactFormEmail" class="" name="contact[email]" placeholder="Email" autocorrect="off" autocapitalize="off" value="">
+          </div>
+
+          <div class="">
+
+            <label for="ContactFormPhone" class=""></label>
+            <input type="tel" id="ContactFormPhone" class="" name="contact[tel]" placeholder="Phone" pattern="[0-9\-]*" value="">
+          </div>
+
+          <div class="">
+            <label for="ContactFormMessage" class=""></label>
+            <textarea rows="10" id="ContactFormMessage" class="" name="contact[body]" placeholder="Message"></textarea>
+          </div>
+
+          <input type="submit" class="btn btn-secondary right" value="Send" style="margin-left: 15px; margin-top: -10px;">
+
+        </div>
+
+      </form>
+
+    </div>
+
+    </body>
+    </html>

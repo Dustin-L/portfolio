@@ -1,0 +1,29 @@
+footer {
+max-width: 50%;
+}
+
+a:hover {
+  color: var(--color-primary-light);
+}
+
+a:active {
+  text-decoration: underline;
+}
+
+body {
+  background-color: var(--color-accent-2);
+}
+
+a {
+  color: var(--color-accent-3);
+  transition:
+    color .3s;
+}
+
+p {
+  color: var(--color-accent-3);
+}
+
+.footer-text {
+  color: #fff;
+}

@@ -1,0 +1,49 @@
+input,
+input[type="checkbox"] + label::before {
+  border: 2px solid var(--color-accent-2);
+}
+
+html {
+  font-family: var(--font-primary);
+}
+
+.checkbox {
+  font-family: var(--font-secondary);
+  background-color: var(--color-accent-3);
+}
+
+.textbox {
+  font-family: var(--font-secondary);
+  position: relative;
+}
+
+.textbox-username {
+  font-family: var(--color-accent-2);
+  color: var(--color-accent-2);
+}
+
+.go-tab {
+  z-index: 99;
+  position: absolute;
+  top: 0;
+  right: 0;
+}
+
+.split {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: stretch;
+}
+
+.split input {
+  flex-grow: 1;
+  height: auto;
+}
+
+.textbox .quantity {
+  padding: 1em;
+  width: 4em;
+  text-align: center;
+  background-color: var(--color-accent-4);
+}

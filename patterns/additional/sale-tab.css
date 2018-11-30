@@ -1,0 +1,31 @@
+h3 {
+  color: var(--color-accent-2);
+}
+
+p {
+  color: var(--color-primary);
+}
+
+
+.sale-tab {
+ width: 5em;
+ text-align: center;
+  background-color: var(--color-accent-4);
+}
+
+.strike {
+  color: rgba(84, 82, 82, 0.8);
+  text-decoration: line-through;
+}
+
+.split {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: stretch;
+}
+
+.split div {
+  flex-grow: 1;
+  height: auto;
+}
