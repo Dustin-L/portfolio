@@ -444,9 +444,9 @@ const patternBotIncludes = function (manifest) {
 /** 
  * Patternbot library manifest
  * /Users/dustinlangman/Documents/Semester 5/Web Development 5/portfolio
- * @version f88ff8a8621731b91aeaaac75545fa105b3c1b61
+ * @version d5707aa3f4ffdd7c4a647932dbc5974919aedb16
  */
-const patternManifest_f88ff8a8621731b91aeaaac75545fa105b3c1b61 = {
+const patternManifest_d5707aa3f4ffdd7c4a647932dbc5974919aedb16 = {
   "commonInfo": {
     "modulifier": [
       "responsive",
@@ -659,9 +659,24 @@ const patternManifest_f88ff8a8621731b91aeaaac75545fa105b3c1b61 = {
         "path": "/Users/dustinlangman/Documents/Semester 5/Web Development 5/portfolio/pages/home.html"
       },
       {
-        "name": "item-detail.html",
-        "namePretty": "Item detail",
-        "path": "/Users/dustinlangman/Documents/Semester 5/Web Development 5/portfolio/pages/item-detail.html"
+        "name": "item-01-detail.html",
+        "namePretty": "Item 01 detail",
+        "path": "/Users/dustinlangman/Documents/Semester 5/Web Development 5/portfolio/pages/item-01-detail.html"
+      },
+      {
+        "name": "item-02-detail.html",
+        "namePretty": "Item 02 detail",
+        "path": "/Users/dustinlangman/Documents/Semester 5/Web Development 5/portfolio/pages/item-02-detail.html"
+      },
+      {
+        "name": "item-03-detail.html",
+        "namePretty": "Item 03 detail",
+        "path": "/Users/dustinlangman/Documents/Semester 5/Web Development 5/portfolio/pages/item-03-detail.html"
+      },
+      {
+        "name": "item-04-detail.html",
+        "namePretty": "Item 04 detail",
+        "path": "/Users/dustinlangman/Documents/Semester 5/Web Development 5/portfolio/pages/item-04-detail.html"
       },
       {
         "name": "product-list.html",
@@ -1023,5 +1038,5 @@ const patternManifest_f88ff8a8621731b91aeaaac75545fa105b3c1b61 = {
   }
 };
 
-patternBotIncludes(patternManifest_f88ff8a8621731b91aeaaac75545fa105b3c1b61);
+patternBotIncludes(patternManifest_d5707aa3f4ffdd7c4a647932dbc5974919aedb16);
 }());
