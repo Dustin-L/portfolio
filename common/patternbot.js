@@ -444,9 +444,9 @@ const patternBotIncludes = function (manifest) {
 /** 
  * Patternbot library manifest
  * /Users/dustinlangman/Documents/Semester 5/Web Development 5/portfolio
- * @version d5707aa3f4ffdd7c4a647932dbc5974919aedb16
+ * @version cf55816a39351b4049d350564e1f6df867a3cd23
  */
-const patternManifest_d5707aa3f4ffdd7c4a647932dbc5974919aedb16 = {
+const patternManifest_cf55816a39351b4049d350564e1f6df867a3cd23 = {
   "commonInfo": {
     "modulifier": [
       "responsive",
@@ -648,6 +648,11 @@ const patternManifest_d5707aa3f4ffdd7c4a647932dbc5974919aedb16 = {
       "/Users/dustinlangman/Documents/Semester 5/Web Development 5/portfolio/patterns/sections"
     ],
     "pages": [
+      {
+        "name": "404.html",
+        "namePretty": "404",
+        "path": "/Users/dustinlangman/Documents/Semester 5/Web Development 5/portfolio/pages/404.html"
+      },
       {
         "name": "checkout.html",
         "namePretty": "Checkout",
@@ -1038,5 +1043,5 @@ const patternManifest_d5707aa3f4ffdd7c4a647932dbc5974919aedb16 = {
   }
 };
 
-patternBotIncludes(patternManifest_d5707aa3f4ffdd7c4a647932dbc5974919aedb16);
+patternBotIncludes(patternManifest_cf55816a39351b4049d350564e1f6df867a3cd23);
 }());
