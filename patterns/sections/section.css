@@ -5,8 +5,8 @@
   width: 100%;
 }
 
-.section-text h1, p {
-  color: var(--color-accent-2);
+.section-text {
+  color: var(--color-accent-3);
 }
 
 .link-section :hover {

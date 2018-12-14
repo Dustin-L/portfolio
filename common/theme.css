@@ -38,7 +38,8 @@ a {
 }
 
 p {
-  font-family: var(--font-secondary);
+  font-family: var(--font-primary);
+  color: var(--color-accent-3);
 }
 
 ul, ol, dl {
@@ -47,4 +48,20 @@ ul, ol, dl {
 
 mark {
   background-color: var(--color-primary);
+}
+
+h1.black,
+p.black {
+  color: var(--color-accent-2);
+}
+
+.white,
+h2.white,
+p.white {
+  color: var(--color-accent-1);
+}
+
+h2.grey,
+p.grey {
+  color: var(--color-accent-4);
 }
