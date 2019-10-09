@@ -4,4 +4,4 @@ product-section: The product section is used on the product detail page to separ
 section: The section is used on the home page to separate collections of products and info. The section title and small paragraph should be describing the items below the section.
 ---
 
-These sections are primarily used to distribute information and products. They should be used to divide the page up into tangible segments.
+These sections are primarily used to distribute information & products. They should be used to divide the page up into tangible segments.

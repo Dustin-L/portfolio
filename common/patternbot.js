@@ -443,10 +443,10 @@ const patternBotIncludes = function (manifest) {
 
 /** 
  * Patternbot library manifest
- * /Users/dustinlangman/Documents/Semester 5/Web Development 5/portfolio
- * @version 7ff683af5a5bcd836dfcc3555d3440488f925ee3
+ * /Users/dustinlangman/Documents/ALGONQUIN/Semester 5/Web Development 5/portfolio33
+ * @version ba6b35fced4b12735b5268bf63af0610b1edfe4f
  */
-const patternManifest_7ff683af5a5bcd836dfcc3555d3440488f925ee3 = {
+const patternManifest_ba6b35fced4b12735b5268bf63af0610b1edfe4f = {
   "commonInfo": {
     "modulifier": [
       "responsive",
@@ -620,68 +620,68 @@ const patternManifest_7ff683af5a5bcd836dfcc3555d3440488f925ee3 = {
   },
   "patternLibFiles": {
     "commonParsable": {
-      "gridifier": "/Users/dustinlangman/Documents/Semester 5/Web Development 5/portfolio/common/grid.css",
-      "typografier": "/Users/dustinlangman/Documents/Semester 5/Web Development 5/portfolio/common/type.css",
-      "modulifier": "/Users/dustinlangman/Documents/Semester 5/Web Development 5/portfolio/common/modules.css",
-      "theme": "/Users/dustinlangman/Documents/Semester 5/Web Development 5/portfolio/common/theme.css"
+      "gridifier": "/Users/dustinlangman/Documents/ALGONQUIN/Semester 5/Web Development 5/portfolio33/common/grid.css",
+      "typografier": "/Users/dustinlangman/Documents/ALGONQUIN/Semester 5/Web Development 5/portfolio33/common/type.css",
+      "modulifier": "/Users/dustinlangman/Documents/ALGONQUIN/Semester 5/Web Development 5/portfolio33/common/modules.css",
+      "theme": "/Users/dustinlangman/Documents/ALGONQUIN/Semester 5/Web Development 5/portfolio33/common/theme.css"
     },
     "imagesParsable": {
       "icons": false
     },
     "logos": {
-      "sizeLarge": "/Users/dustinlangman/Documents/Semester 5/Web Development 5/portfolio/images/logo.svg",
-      "size64": "/Users/dustinlangman/Documents/Semester 5/Web Development 5/portfolio/images/logo-64.svg",
-      "size32": "/Users/dustinlangman/Documents/Semester 5/Web Development 5/portfolio/images/logo-32.svg",
+      "sizeLarge": "/Users/dustinlangman/Documents/ALGONQUIN/Semester 5/Web Development 5/portfolio33/images/logo.svg",
+      "size64": "/Users/dustinlangman/Documents/ALGONQUIN/Semester 5/Web Development 5/portfolio33/images/logo-64.svg",
+      "size32": "/Users/dustinlangman/Documents/ALGONQUIN/Semester 5/Web Development 5/portfolio33/images/logo-32.svg",
       "size16": false,
       "size32Local": "logo-32.svg",
       "size64Local": "logo-64.svg",
       "sizeLargeLocal": "logo.svg"
     },
     "patterns": [
-      "/Users/dustinlangman/Documents/Semester 5/Web Development 5/portfolio/patterns/additional",
-      "/Users/dustinlangman/Documents/Semester 5/Web Development 5/portfolio/patterns/banners",
-      "/Users/dustinlangman/Documents/Semester 5/Web Development 5/portfolio/patterns/buttons",
-      "/Users/dustinlangman/Documents/Semester 5/Web Development 5/portfolio/patterns/cards",
-      "/Users/dustinlangman/Documents/Semester 5/Web Development 5/portfolio/patterns/footer",
-      "/Users/dustinlangman/Documents/Semester 5/Web Development 5/portfolio/patterns/forms",
-      "/Users/dustinlangman/Documents/Semester 5/Web Development 5/portfolio/patterns/header",
-      "/Users/dustinlangman/Documents/Semester 5/Web Development 5/portfolio/patterns/sections"
+      "/Users/dustinlangman/Documents/ALGONQUIN/Semester 5/Web Development 5/portfolio33/patterns/additional",
+      "/Users/dustinlangman/Documents/ALGONQUIN/Semester 5/Web Development 5/portfolio33/patterns/banners",
+      "/Users/dustinlangman/Documents/ALGONQUIN/Semester 5/Web Development 5/portfolio33/patterns/buttons",
+      "/Users/dustinlangman/Documents/ALGONQUIN/Semester 5/Web Development 5/portfolio33/patterns/cards",
+      "/Users/dustinlangman/Documents/ALGONQUIN/Semester 5/Web Development 5/portfolio33/patterns/footer",
+      "/Users/dustinlangman/Documents/ALGONQUIN/Semester 5/Web Development 5/portfolio33/patterns/forms",
+      "/Users/dustinlangman/Documents/ALGONQUIN/Semester 5/Web Development 5/portfolio33/patterns/header",
+      "/Users/dustinlangman/Documents/ALGONQUIN/Semester 5/Web Development 5/portfolio33/patterns/sections"
     ],
     "pages": [
       {
         "name": "404.html",
         "namePretty": "404",
-        "path": "/Users/dustinlangman/Documents/Semester 5/Web Development 5/portfolio/pages/404.html"
+        "path": "/Users/dustinlangman/Documents/ALGONQUIN/Semester 5/Web Development 5/portfolio33/pages/404.html"
       },
       {
         "name": "home.html",
         "namePretty": "Home",
-        "path": "/Users/dustinlangman/Documents/Semester 5/Web Development 5/portfolio/pages/home.html"
+        "path": "/Users/dustinlangman/Documents/ALGONQUIN/Semester 5/Web Development 5/portfolio33/pages/home.html"
       },
       {
         "name": "item-01-detail.html",
         "namePretty": "Item 01 detail",
-        "path": "/Users/dustinlangman/Documents/Semester 5/Web Development 5/portfolio/pages/item-01-detail.html"
+        "path": "/Users/dustinlangman/Documents/ALGONQUIN/Semester 5/Web Development 5/portfolio33/pages/item-01-detail.html"
       },
       {
         "name": "item-02-detail.html",
         "namePretty": "Item 02 detail",
-        "path": "/Users/dustinlangman/Documents/Semester 5/Web Development 5/portfolio/pages/item-02-detail.html"
+        "path": "/Users/dustinlangman/Documents/ALGONQUIN/Semester 5/Web Development 5/portfolio33/pages/item-02-detail.html"
       },
       {
         "name": "item-03-detail.html",
         "namePretty": "Item 03 detail",
-        "path": "/Users/dustinlangman/Documents/Semester 5/Web Development 5/portfolio/pages/item-03-detail.html"
+        "path": "/Users/dustinlangman/Documents/ALGONQUIN/Semester 5/Web Development 5/portfolio33/pages/item-03-detail.html"
       },
       {
         "name": "item-04-detail.html",
         "namePretty": "Item 04 detail",
-        "path": "/Users/dustinlangman/Documents/Semester 5/Web Development 5/portfolio/pages/item-04-detail.html"
+        "path": "/Users/dustinlangman/Documents/ALGONQUIN/Semester 5/Web Development 5/portfolio33/pages/item-04-detail.html"
       },
       {
         "name": "product-list.html",
         "namePretty": "Product list",
-        "path": "/Users/dustinlangman/Documents/Semester 5/Web Development 5/portfolio/pages/product-list.html"
+        "path": "/Users/dustinlangman/Documents/ALGONQUIN/Semester 5/Web Development 5/portfolio33/pages/product-list.html"
       }
     ],
     "js": []
@@ -690,13 +690,13 @@ const patternManifest_7ff683af5a5bcd836dfcc3555d3440488f925ee3 = {
     {
       "name": "additional",
       "namePretty": "Additional",
-      "path": "/Users/dustinlangman/Documents/Semester 5/Web Development 5/portfolio/patterns/additional",
+      "path": "/Users/dustinlangman/Documents/ALGONQUIN/Semester 5/Web Development 5/portfolio33/patterns/additional",
       "html": [
         {
           "name": "page-nav",
           "namePretty": "Page nav",
           "filename": "page-nav",
-          "path": "/Users/dustinlangman/Documents/Semester 5/Web Development 5/portfolio/patterns/additional/page-nav.html",
+          "path": "/Users/dustinlangman/Documents/ALGONQUIN/Semester 5/Web Development 5/portfolio33/patterns/additional/page-nav.html",
           "localPath": "patterns/additional/page-nav.html",
           "readme": {}
         },
@@ -704,7 +704,7 @@ const patternManifest_7ff683af5a5bcd836dfcc3555d3440488f925ee3 = {
           "name": "sale-tab",
           "namePretty": "Sale tab",
           "filename": "sale-tab",
-          "path": "/Users/dustinlangman/Documents/Semester 5/Web Development 5/portfolio/patterns/additional/sale-tab.html",
+          "path": "/Users/dustinlangman/Documents/ALGONQUIN/Semester 5/Web Development 5/portfolio33/patterns/additional/sale-tab.html",
           "localPath": "patterns/additional/sale-tab.html",
           "readme": {}
         }
@@ -714,7 +714,7 @@ const patternManifest_7ff683af5a5bcd836dfcc3555d3440488f925ee3 = {
           "name": "readme",
           "namePretty": "Readme",
           "filename": "README",
-          "path": "/Users/dustinlangman/Documents/Semester 5/Web Development 5/portfolio/patterns/additional/README.md",
+          "path": "/Users/dustinlangman/Documents/ALGONQUIN/Semester 5/Web Development 5/portfolio33/patterns/additional/README.md",
           "localPath": "patterns/additional/README.md"
         }
       ],
@@ -723,14 +723,14 @@ const patternManifest_7ff683af5a5bcd836dfcc3555d3440488f925ee3 = {
           "name": "page-nav",
           "namePretty": "Page nav",
           "filename": "page-nav",
-          "path": "/Users/dustinlangman/Documents/Semester 5/Web Development 5/portfolio/patterns/additional/page-nav.css",
+          "path": "/Users/dustinlangman/Documents/ALGONQUIN/Semester 5/Web Development 5/portfolio33/patterns/additional/page-nav.css",
           "localPath": "patterns/additional/page-nav.css"
         },
         {
           "name": "sale-tab",
           "namePretty": "Sale tab",
           "filename": "sale-tab",
-          "path": "/Users/dustinlangman/Documents/Semester 5/Web Development 5/portfolio/patterns/additional/sale-tab.css",
+          "path": "/Users/dustinlangman/Documents/ALGONQUIN/Semester 5/Web Development 5/portfolio33/patterns/additional/sale-tab.css",
           "localPath": "patterns/additional/sale-tab.css"
         }
       ],
@@ -739,13 +739,13 @@ const patternManifest_7ff683af5a5bcd836dfcc3555d3440488f925ee3 = {
     {
       "name": "banners",
       "namePretty": "Banners",
-      "path": "/Users/dustinlangman/Documents/Semester 5/Web Development 5/portfolio/patterns/banners",
+      "path": "/Users/dustinlangman/Documents/ALGONQUIN/Semester 5/Web Development 5/portfolio33/patterns/banners",
       "html": [
         {
           "name": "main-banner",
           "namePretty": "Main banner",
           "filename": "main-banner",
-          "path": "/Users/dustinlangman/Documents/Semester 5/Web Development 5/portfolio/patterns/banners/main-banner.html",
+          "path": "/Users/dustinlangman/Documents/ALGONQUIN/Semester 5/Web Development 5/portfolio33/patterns/banners/main-banner.html",
           "localPath": "patterns/banners/main-banner.html"
         }
       ],
@@ -754,7 +754,7 @@ const patternManifest_7ff683af5a5bcd836dfcc3555d3440488f925ee3 = {
           "name": "readme",
           "namePretty": "Readme",
           "filename": "README",
-          "path": "/Users/dustinlangman/Documents/Semester 5/Web Development 5/portfolio/patterns/banners/README.md",
+          "path": "/Users/dustinlangman/Documents/ALGONQUIN/Semester 5/Web Development 5/portfolio33/patterns/banners/README.md",
           "localPath": "patterns/banners/README.md"
         }
       ],
@@ -763,7 +763,7 @@ const patternManifest_7ff683af5a5bcd836dfcc3555d3440488f925ee3 = {
           "name": "main-banner",
           "namePretty": "Main banner",
           "filename": "main-banner",
-          "path": "/Users/dustinlangman/Documents/Semester 5/Web Development 5/portfolio/patterns/banners/main-banner.css",
+          "path": "/Users/dustinlangman/Documents/ALGONQUIN/Semester 5/Web Development 5/portfolio33/patterns/banners/main-banner.css",
           "localPath": "patterns/banners/main-banner.css"
         }
       ],
@@ -772,13 +772,13 @@ const patternManifest_7ff683af5a5bcd836dfcc3555d3440488f925ee3 = {
     {
       "name": "buttons",
       "namePretty": "Buttons",
-      "path": "/Users/dustinlangman/Documents/Semester 5/Web Development 5/portfolio/patterns/buttons",
+      "path": "/Users/dustinlangman/Documents/ALGONQUIN/Semester 5/Web Development 5/portfolio33/patterns/buttons",
       "html": [
         {
           "name": "buttons",
           "namePretty": "Buttons",
           "filename": "buttons",
-          "path": "/Users/dustinlangman/Documents/Semester 5/Web Development 5/portfolio/patterns/buttons/buttons.html",
+          "path": "/Users/dustinlangman/Documents/ALGONQUIN/Semester 5/Web Development 5/portfolio33/patterns/buttons/buttons.html",
           "localPath": "patterns/buttons/buttons.html"
         }
       ],
@@ -787,7 +787,7 @@ const patternManifest_7ff683af5a5bcd836dfcc3555d3440488f925ee3 = {
           "name": "readme",
           "namePretty": "Readme",
           "filename": "README",
-          "path": "/Users/dustinlangman/Documents/Semester 5/Web Development 5/portfolio/patterns/buttons/README.md",
+          "path": "/Users/dustinlangman/Documents/ALGONQUIN/Semester 5/Web Development 5/portfolio33/patterns/buttons/README.md",
           "localPath": "patterns/buttons/README.md"
         }
       ],
@@ -796,7 +796,7 @@ const patternManifest_7ff683af5a5bcd836dfcc3555d3440488f925ee3 = {
           "name": "buttons",
           "namePretty": "Buttons",
           "filename": "buttons",
-          "path": "/Users/dustinlangman/Documents/Semester 5/Web Development 5/portfolio/patterns/buttons/buttons.css",
+          "path": "/Users/dustinlangman/Documents/ALGONQUIN/Semester 5/Web Development 5/portfolio33/patterns/buttons/buttons.css",
           "localPath": "patterns/buttons/buttons.css"
         }
       ],
@@ -805,13 +805,13 @@ const patternManifest_7ff683af5a5bcd836dfcc3555d3440488f925ee3 = {
     {
       "name": "cards",
       "namePretty": "Cards",
-      "path": "/Users/dustinlangman/Documents/Semester 5/Web Development 5/portfolio/patterns/cards",
+      "path": "/Users/dustinlangman/Documents/ALGONQUIN/Semester 5/Web Development 5/portfolio33/patterns/cards",
       "html": [
         {
           "name": "depth-card",
           "namePretty": "Depth card",
           "filename": "depth-card",
-          "path": "/Users/dustinlangman/Documents/Semester 5/Web Development 5/portfolio/patterns/cards/depth-card.html",
+          "path": "/Users/dustinlangman/Documents/ALGONQUIN/Semester 5/Web Development 5/portfolio33/patterns/cards/depth-card.html",
           "localPath": "patterns/cards/depth-card.html",
           "readme": {}
         },
@@ -819,7 +819,7 @@ const patternManifest_7ff683af5a5bcd836dfcc3555d3440488f925ee3 = {
           "name": "main-card",
           "namePretty": "Main card",
           "filename": "main-card",
-          "path": "/Users/dustinlangman/Documents/Semester 5/Web Development 5/portfolio/patterns/cards/main-card.html",
+          "path": "/Users/dustinlangman/Documents/ALGONQUIN/Semester 5/Web Development 5/portfolio33/patterns/cards/main-card.html",
           "localPath": "patterns/cards/main-card.html",
           "readme": {}
         },
@@ -827,7 +827,7 @@ const patternManifest_7ff683af5a5bcd836dfcc3555d3440488f925ee3 = {
           "name": "new-card",
           "namePretty": "New card",
           "filename": "new-card",
-          "path": "/Users/dustinlangman/Documents/Semester 5/Web Development 5/portfolio/patterns/cards/new-card.html",
+          "path": "/Users/dustinlangman/Documents/ALGONQUIN/Semester 5/Web Development 5/portfolio33/patterns/cards/new-card.html",
           "localPath": "patterns/cards/new-card.html",
           "readme": {}
         }
@@ -837,7 +837,7 @@ const patternManifest_7ff683af5a5bcd836dfcc3555d3440488f925ee3 = {
           "name": "readme",
           "namePretty": "Readme",
           "filename": "README",
-          "path": "/Users/dustinlangman/Documents/Semester 5/Web Development 5/portfolio/patterns/cards/README.md",
+          "path": "/Users/dustinlangman/Documents/ALGONQUIN/Semester 5/Web Development 5/portfolio33/patterns/cards/README.md",
           "localPath": "patterns/cards/README.md"
         }
       ],
@@ -846,14 +846,14 @@ const patternManifest_7ff683af5a5bcd836dfcc3555d3440488f925ee3 = {
           "name": "main-card",
           "namePretty": "Main card",
           "filename": "main-card",
-          "path": "/Users/dustinlangman/Documents/Semester 5/Web Development 5/portfolio/patterns/cards/main-card.css",
+          "path": "/Users/dustinlangman/Documents/ALGONQUIN/Semester 5/Web Development 5/portfolio33/patterns/cards/main-card.css",
           "localPath": "patterns/cards/main-card.css"
         },
         {
           "name": "new-card",
           "namePretty": "New card",
           "filename": "new-card",
-          "path": "/Users/dustinlangman/Documents/Semester 5/Web Development 5/portfolio/patterns/cards/new-card.css",
+          "path": "/Users/dustinlangman/Documents/ALGONQUIN/Semester 5/Web Development 5/portfolio33/patterns/cards/new-card.css",
           "localPath": "patterns/cards/new-card.css"
         }
       ],
@@ -862,13 +862,13 @@ const patternManifest_7ff683af5a5bcd836dfcc3555d3440488f925ee3 = {
     {
       "name": "footer",
       "namePretty": "Footer",
-      "path": "/Users/dustinlangman/Documents/Semester 5/Web Development 5/portfolio/patterns/footer",
+      "path": "/Users/dustinlangman/Documents/ALGONQUIN/Semester 5/Web Development 5/portfolio33/patterns/footer",
       "html": [
         {
           "name": "footer",
           "namePretty": "Footer",
           "filename": "footer",
-          "path": "/Users/dustinlangman/Documents/Semester 5/Web Development 5/portfolio/patterns/footer/footer.html",
+          "path": "/Users/dustinlangman/Documents/ALGONQUIN/Semester 5/Web Development 5/portfolio33/patterns/footer/footer.html",
           "localPath": "patterns/footer/footer.html"
         }
       ],
@@ -877,7 +877,7 @@ const patternManifest_7ff683af5a5bcd836dfcc3555d3440488f925ee3 = {
           "name": "readme",
           "namePretty": "Readme",
           "filename": "README",
-          "path": "/Users/dustinlangman/Documents/Semester 5/Web Development 5/portfolio/patterns/footer/README.md",
+          "path": "/Users/dustinlangman/Documents/ALGONQUIN/Semester 5/Web Development 5/portfolio33/patterns/footer/README.md",
           "localPath": "patterns/footer/README.md"
         }
       ],
@@ -886,7 +886,7 @@ const patternManifest_7ff683af5a5bcd836dfcc3555d3440488f925ee3 = {
           "name": "footer",
           "namePretty": "Footer",
           "filename": "footer",
-          "path": "/Users/dustinlangman/Documents/Semester 5/Web Development 5/portfolio/patterns/footer/footer.css",
+          "path": "/Users/dustinlangman/Documents/ALGONQUIN/Semester 5/Web Development 5/portfolio33/patterns/footer/footer.css",
           "localPath": "patterns/footer/footer.css"
         }
       ],
@@ -895,13 +895,13 @@ const patternManifest_7ff683af5a5bcd836dfcc3555d3440488f925ee3 = {
     {
       "name": "forms",
       "namePretty": "Forms",
-      "path": "/Users/dustinlangman/Documents/Semester 5/Web Development 5/portfolio/patterns/forms",
+      "path": "/Users/dustinlangman/Documents/ALGONQUIN/Semester 5/Web Development 5/portfolio33/patterns/forms",
       "html": [
         {
           "name": "contact-form",
           "namePretty": "Contact form",
           "filename": "contact-form",
-          "path": "/Users/dustinlangman/Documents/Semester 5/Web Development 5/portfolio/patterns/forms/contact-form.html",
+          "path": "/Users/dustinlangman/Documents/ALGONQUIN/Semester 5/Web Development 5/portfolio33/patterns/forms/contact-form.html",
           "localPath": "patterns/forms/contact-form.html",
           "readme": {}
         },
@@ -909,7 +909,7 @@ const patternManifest_7ff683af5a5bcd836dfcc3555d3440488f925ee3 = {
           "name": "newsletter",
           "namePretty": "Newsletter",
           "filename": "newsletter",
-          "path": "/Users/dustinlangman/Documents/Semester 5/Web Development 5/portfolio/patterns/forms/newsletter.html",
+          "path": "/Users/dustinlangman/Documents/ALGONQUIN/Semester 5/Web Development 5/portfolio33/patterns/forms/newsletter.html",
           "localPath": "patterns/forms/newsletter.html",
           "readme": {}
         }
@@ -919,7 +919,7 @@ const patternManifest_7ff683af5a5bcd836dfcc3555d3440488f925ee3 = {
           "name": "readme",
           "namePretty": "Readme",
           "filename": "README",
-          "path": "/Users/dustinlangman/Documents/Semester 5/Web Development 5/portfolio/patterns/forms/README.md",
+          "path": "/Users/dustinlangman/Documents/ALGONQUIN/Semester 5/Web Development 5/portfolio33/patterns/forms/README.md",
           "localPath": "patterns/forms/README.md"
         }
       ],
@@ -928,7 +928,7 @@ const patternManifest_7ff683af5a5bcd836dfcc3555d3440488f925ee3 = {
           "name": "forms",
           "namePretty": "Forms",
           "filename": "forms",
-          "path": "/Users/dustinlangman/Documents/Semester 5/Web Development 5/portfolio/patterns/forms/forms.css",
+          "path": "/Users/dustinlangman/Documents/ALGONQUIN/Semester 5/Web Development 5/portfolio33/patterns/forms/forms.css",
           "localPath": "patterns/forms/forms.css"
         }
       ],
@@ -937,13 +937,13 @@ const patternManifest_7ff683af5a5bcd836dfcc3555d3440488f925ee3 = {
     {
       "name": "header",
       "namePretty": "Header",
-      "path": "/Users/dustinlangman/Documents/Semester 5/Web Development 5/portfolio/patterns/header",
+      "path": "/Users/dustinlangman/Documents/ALGONQUIN/Semester 5/Web Development 5/portfolio33/patterns/header",
       "html": [
         {
           "name": "header",
           "namePretty": "Header",
           "filename": "header",
-          "path": "/Users/dustinlangman/Documents/Semester 5/Web Development 5/portfolio/patterns/header/header.html",
+          "path": "/Users/dustinlangman/Documents/ALGONQUIN/Semester 5/Web Development 5/portfolio33/patterns/header/header.html",
           "localPath": "patterns/header/header.html"
         }
       ],
@@ -952,7 +952,7 @@ const patternManifest_7ff683af5a5bcd836dfcc3555d3440488f925ee3 = {
           "name": "readme",
           "namePretty": "Readme",
           "filename": "README",
-          "path": "/Users/dustinlangman/Documents/Semester 5/Web Development 5/portfolio/patterns/header/README.md",
+          "path": "/Users/dustinlangman/Documents/ALGONQUIN/Semester 5/Web Development 5/portfolio33/patterns/header/README.md",
           "localPath": "patterns/header/README.md"
         }
       ],
@@ -961,7 +961,7 @@ const patternManifest_7ff683af5a5bcd836dfcc3555d3440488f925ee3 = {
           "name": "header",
           "namePretty": "Header",
           "filename": "header",
-          "path": "/Users/dustinlangman/Documents/Semester 5/Web Development 5/portfolio/patterns/header/header.css",
+          "path": "/Users/dustinlangman/Documents/ALGONQUIN/Semester 5/Web Development 5/portfolio33/patterns/header/header.css",
           "localPath": "patterns/header/header.css"
         }
       ],
@@ -970,13 +970,13 @@ const patternManifest_7ff683af5a5bcd836dfcc3555d3440488f925ee3 = {
     {
       "name": "sections",
       "namePretty": "Sections",
-      "path": "/Users/dustinlangman/Documents/Semester 5/Web Development 5/portfolio/patterns/sections",
+      "path": "/Users/dustinlangman/Documents/ALGONQUIN/Semester 5/Web Development 5/portfolio33/patterns/sections",
       "html": [
         {
           "name": "link-section",
           "namePretty": "Link section",
           "filename": "link-section",
-          "path": "/Users/dustinlangman/Documents/Semester 5/Web Development 5/portfolio/patterns/sections/link-section.html",
+          "path": "/Users/dustinlangman/Documents/ALGONQUIN/Semester 5/Web Development 5/portfolio33/patterns/sections/link-section.html",
           "localPath": "patterns/sections/link-section.html",
           "readme": {}
         },
@@ -984,7 +984,7 @@ const patternManifest_7ff683af5a5bcd836dfcc3555d3440488f925ee3 = {
           "name": "product-section",
           "namePretty": "Product section",
           "filename": "product-section",
-          "path": "/Users/dustinlangman/Documents/Semester 5/Web Development 5/portfolio/patterns/sections/product-section.html",
+          "path": "/Users/dustinlangman/Documents/ALGONQUIN/Semester 5/Web Development 5/portfolio33/patterns/sections/product-section.html",
           "localPath": "patterns/sections/product-section.html",
           "readme": {}
         },
@@ -992,7 +992,7 @@ const patternManifest_7ff683af5a5bcd836dfcc3555d3440488f925ee3 = {
           "name": "section",
           "namePretty": "Section",
           "filename": "section",
-          "path": "/Users/dustinlangman/Documents/Semester 5/Web Development 5/portfolio/patterns/sections/section.html",
+          "path": "/Users/dustinlangman/Documents/ALGONQUIN/Semester 5/Web Development 5/portfolio33/patterns/sections/section.html",
           "localPath": "patterns/sections/section.html",
           "readme": {}
         }
@@ -1002,7 +1002,7 @@ const patternManifest_7ff683af5a5bcd836dfcc3555d3440488f925ee3 = {
           "name": "readme",
           "namePretty": "Readme",
           "filename": "README",
-          "path": "/Users/dustinlangman/Documents/Semester 5/Web Development 5/portfolio/patterns/sections/README.md",
+          "path": "/Users/dustinlangman/Documents/ALGONQUIN/Semester 5/Web Development 5/portfolio33/patterns/sections/README.md",
           "localPath": "patterns/sections/README.md"
         }
       ],
@@ -1011,7 +1011,7 @@ const patternManifest_7ff683af5a5bcd836dfcc3555d3440488f925ee3 = {
           "name": "section",
           "namePretty": "Section",
           "filename": "section",
-          "path": "/Users/dustinlangman/Documents/Semester 5/Web Development 5/portfolio/patterns/sections/section.css",
+          "path": "/Users/dustinlangman/Documents/ALGONQUIN/Semester 5/Web Development 5/portfolio33/patterns/sections/section.css",
           "localPath": "patterns/sections/section.css"
         }
       ],
@@ -1038,5 +1038,5 @@ const patternManifest_7ff683af5a5bcd836dfcc3555d3440488f925ee3 = {
   }
 };
 
-patternBotIncludes(patternManifest_7ff683af5a5bcd836dfcc3555d3440488f925ee3);
+patternBotIncludes(patternManifest_ba6b35fced4b12735b5268bf63af0610b1edfe4f);
 }());
