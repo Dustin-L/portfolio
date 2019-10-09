@@ -444,9 +444,9 @@ const patternBotIncludes = function (manifest) {
 /** 
  * Patternbot library manifest
  * /Users/dustinlangman/Documents/ALGONQUIN/Semester 5/Web Development 5/portfolio33
- * @version ba6b35fced4b12735b5268bf63af0610b1edfe4f
+ * @version 8e92b6a69f9f03c715acd3d77f5f8911c528a9e0
  */
-const patternManifest_ba6b35fced4b12735b5268bf63af0610b1edfe4f = {
+const patternManifest_8e92b6a69f9f03c715acd3d77f5f8911c528a9e0 = {
   "commonInfo": {
     "modulifier": [
       "responsive",
@@ -981,19 +981,19 @@ const patternManifest_ba6b35fced4b12735b5268bf63af0610b1edfe4f = {
           "readme": {}
         },
         {
-          "name": "product-section",
-          "namePretty": "Product section",
-          "filename": "product-section",
-          "path": "/Users/dustinlangman/Documents/ALGONQUIN/Semester 5/Web Development 5/portfolio33/patterns/sections/product-section.html",
-          "localPath": "patterns/sections/product-section.html",
-          "readme": {}
-        },
-        {
           "name": "section",
           "namePretty": "Section",
           "filename": "section",
           "path": "/Users/dustinlangman/Documents/ALGONQUIN/Semester 5/Web Development 5/portfolio33/patterns/sections/section.html",
           "localPath": "patterns/sections/section.html",
+          "readme": {}
+        },
+        {
+          "name": "work-section",
+          "namePretty": "Work section",
+          "filename": "work-section",
+          "path": "/Users/dustinlangman/Documents/ALGONQUIN/Semester 5/Web Development 5/portfolio33/patterns/sections/work-section.html",
+          "localPath": "patterns/sections/work-section.html",
           "readme": {}
         }
       ],
@@ -1038,5 +1038,5 @@ const patternManifest_ba6b35fced4b12735b5268bf63af0610b1edfe4f = {
   }
 };
 
-patternBotIncludes(patternManifest_ba6b35fced4b12735b5268bf63af0610b1edfe4f);
+patternBotIncludes(patternManifest_8e92b6a69f9f03c715acd3d77f5f8911c528a9e0);
 }());
