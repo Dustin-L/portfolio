@@ -444,9 +444,9 @@ const patternBotIncludes = function (manifest) {
 /** 
  * Patternbot library manifest
  * /Users/dustinlangman/Documents/ALGONQUIN/Semester 5/Web Development 5/portfolio33
- * @version 8e92b6a69f9f03c715acd3d77f5f8911c528a9e0
+ * @version 7c70889b7e1a4d94f1de7a4690099167881967cd
  */
-const patternManifest_8e92b6a69f9f03c715acd3d77f5f8911c528a9e0 = {
+const patternManifest_7c70889b7e1a4d94f1de7a4690099167881967cd = {
   "commonInfo": {
     "modulifier": [
       "responsive",
@@ -609,8 +609,16 @@ const patternManifest_8e92b6a69f9f03c715acd3d77f5f8911c528a9e0 = {
       }
     },
     "readme": {
-      "attributes": {},
-      "bodyRaw": "# Dustin Langman\n#### dustinlangman.ca\n\nFirst things first let me Introduce myself, my name is Dustin Langman. I have lived all my life in Ottawa, ON, Canada but have taken time to visit other places in my spare time such as Nova Scotia, Cuba, New York and hope to visit various Europe counties in my future. I'm currently studying Graphic Design and Web development at Algonquin College, this being my third and final year.\n\nTake it easy, sincerely\nDustin Langman\n\n![](images/1x1.png)\n\n- **[Email](https://dustinlangman@gmail.com)\n- **[Instagram] (https://instragram.com/dustin.ca)\n\n---\n\n© Dustin Langman\n",
+      "attributes": {
+        "output-file": "pattern-library.html",
+        "outputFile": "pattern-library.html",
+        "backgroundColour": "#fff",
+        "interfaceColours": {
+          "primary": 0,
+          "opposite": 255
+        }
+      },
+      "bodyRaw": "\n# Dustin Langman\n#### dustinlangman.ca\n\nFirst things first let me Introduce myself, my name is Dustin Langman. I have lived all my life in Ottawa, ON, Canada but have taken time to visit other places in my spare time such as Nova Scotia, Cuba, New York and hope to visit various Europe counties in my future. I'm currently studying Graphic Design and Web development at Algonquin College, this being my third and final year.\n\nTake it easy, sincerely\nDustin Langman\n\n![](images/1x1.png)\n\n- **[Email](https://dustinlangman@gmail.com)\n- **[Instagram] (https://instragram.com/dustin.ca)\n\n---\n\n© Dustin Langman\n",
       "bodyBasic": "# Dustin Langman #### dustinlangman.ca First things first let me Introduce myself, my name is Dustin Langman. I have lived all my life in Ottawa, ON, Canada but have taken time to visit other places in my spare time such as Nova Scotia, Cuba, New York and hope to visit various Europe counties in my future. I'm currently studying Graphic Design and Web development at Algonquin College, this being my third and final year. Take it easy, sincerely Dustin Langman ![](images/1x1.png) - **[Email](https://dustinlangman@gmail.com) - **[Instagram] (https://instragram.com/dustin.ca) --- © Dustin Langman"
     },
     "interfaceColours": {
@@ -1038,5 +1046,5 @@ const patternManifest_8e92b6a69f9f03c715acd3d77f5f8911c528a9e0 = {
   }
 };
 
-patternBotIncludes(patternManifest_8e92b6a69f9f03c715acd3d77f5f8911c528a9e0);
+patternBotIncludes(patternManifest_7c70889b7e1a4d94f1de7a4690099167881967cd);
 }());

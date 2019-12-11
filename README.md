@@ -1,3 +1,7 @@
+---
+output-file: pattern-library.html
+---
+
 # Dustin Langman
 #### dustinlangman.ca
 
